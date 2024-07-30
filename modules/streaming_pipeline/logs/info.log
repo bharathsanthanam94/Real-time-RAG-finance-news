@@ -1,0 +1,584 @@
+2024-07-24 11:09:09,991 - INFO - Initializing env vars...
+2024-07-24 11:09:09,992 - INFO - Loading environment variables from: .env
+2024-07-24 11:09:23,509 - INFO - Reading document from string ...
+2024-07-24 11:09:23,511 - INFO - Reading document ...
+2024-07-24 11:15:07,302 - INFO - Initializing env vars...
+2024-07-24 11:15:07,302 - INFO - Loading environment variables from: .env
+2024-07-24 11:15:07,895 - INFO - Reading document from string ...
+2024-07-24 11:15:07,896 - INFO - Reading document ...
+2024-07-24 11:15:09,946 - INFO - Reading document from string ...
+2024-07-24 11:15:09,946 - INFO - Reading document ...
+2024-07-24 11:15:32,646 - INFO - Initializing env vars...
+2024-07-24 11:15:32,646 - INFO - Loading environment variables from: .env
+2024-07-24 11:15:33,302 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 404 Not Found"
+2024-07-24 11:15:33,362 - INFO - HTTP Request: DELETE https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 200 OK"
+2024-07-24 11:15:33,582 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 200 OK"
+2024-07-24 11:18:04,629 - INFO - Initializing env vars...
+2024-07-24 11:18:04,629 - INFO - Loading environment variables from: .env
+2024-07-24 11:18:05,241 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 200 OK"
+2024-07-24 11:28:34,803 - INFO - Initializing env vars...
+2024-07-24 11:28:34,803 - INFO - Loading environment variables from: .env
+2024-07-24 11:28:35,505 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 200 OK"
+2024-07-24 11:32:23,173 - INFO - Initializing env vars...
+2024-07-24 11:32:23,174 - INFO - Loading environment variables from: .env
+2024-07-24 11:32:23,902 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 200 OK"
+2024-07-24 11:32:38,437 - INFO - Initializing env vars...
+2024-07-24 11:32:38,437 - INFO - Loading environment variables from: .env
+2024-07-24 11:32:39,043 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 200 OK"
+2024-07-24 11:33:31,318 - INFO - Initializing env vars...
+2024-07-24 11:33:31,318 - INFO - Loading environment variables from: .env
+2024-07-24 11:33:31,997 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 200 OK"
+2024-07-24 11:34:12,994 - INFO - Initializing env vars...
+2024-07-24 11:34:12,994 - INFO - Loading environment variables from: .env
+2024-07-24 11:34:13,606 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 200 OK"
+2024-07-24 11:35:49,025 - INFO - Initializing env vars...
+2024-07-24 11:35:49,025 - INFO - Loading environment variables from: .env
+2024-07-24 11:35:49,634 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 200 OK"
+2024-07-24 11:39:24,363 - INFO - Initializing env vars...
+2024-07-24 11:39:24,363 - INFO - Loading environment variables from: .env
+2024-07-24 11:39:25,046 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 200 OK"
+2024-07-24 11:43:05,663 - INFO - Initializing env vars...
+2024-07-24 11:43:05,663 - INFO - Loading environment variables from: .env
+2024-07-24 11:43:06,274 - ERROR - Error while checking collection: 'QdrantRemote' object has no attribute 'collections_api'
+2024-07-24 11:45:39,417 - INFO - Initializing env vars...
+2024-07-24 11:45:39,417 - INFO - Loading environment variables from: .env
+2024-07-24 11:45:40,054 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 200 OK"
+2024-07-24 11:45:40,059 - ERROR - Error while checking collection: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj -> result -> vectors_count
+  field required (type=value_error.missing)
+obj -> result -> config -> optimizer_config -> max_optimization_threads
+  none is not an allowed value (type=type_error.none.not_allowed)
+2024-07-24 11:46:13,540 - INFO - Initializing env vars...
+2024-07-24 11:46:13,541 - INFO - Loading environment variables from: .env
+2024-07-24 11:46:14,203 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 200 OK"
+2024-07-24 11:46:14,205 - ERROR - Error while checking collection: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj -> result -> vectors_count
+  field required (type=value_error.missing)
+obj -> result -> config -> optimizer_config -> max_optimization_threads
+  none is not an allowed value (type=type_error.none.not_allowed)
+2024-07-24 11:47:05,820 - INFO - Initializing env vars...
+2024-07-24 11:47:05,820 - INFO - Loading environment variables from: .env
+2024-07-24 11:47:06,537 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 200 OK"
+2024-07-24 11:47:06,539 - ERROR - Error while checking collection: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj -> result -> vectors_count
+  field required (type=value_error.missing)
+obj -> result -> config -> optimizer_config -> max_optimization_threads
+  none is not an allowed value (type=type_error.none.not_allowed)
+2024-07-24 11:50:22,801 - INFO - Initializing env vars...
+2024-07-24 11:50:22,801 - INFO - Loading environment variables from: .env
+2024-07-24 11:50:23,401 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 200 OK"
+2024-07-24 11:50:23,402 - ERROR - Error while checking collection: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj -> result -> vectors_count
+  field required (type=value_error.missing)
+obj -> result -> config -> optimizer_config -> max_optimization_threads
+  none is not an allowed value (type=type_error.none.not_allowed)
+2024-07-24 11:54:20,852 - INFO - Initializing env vars...
+2024-07-24 11:54:20,853 - INFO - Loading environment variables from: .env
+2024-07-24 11:54:50,819 - INFO - Initializing env vars...
+2024-07-24 11:54:50,819 - INFO - Loading environment variables from: .env
+2024-07-24 11:56:03,380 - INFO - Initializing env vars...
+2024-07-24 11:56:03,380 - INFO - Loading environment variables from: .env
+2024-07-24 11:56:21,903 - INFO - Initializing env vars...
+2024-07-24 11:56:21,903 - INFO - Loading environment variables from: .env
+2024-07-24 12:01:18,248 - INFO - Initializing env vars...
+2024-07-24 12:01:18,248 - INFO - Loading environment variables from: .env
+2024-07-24 12:01:18,995 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/1.1 200 OK"
+2024-07-24 12:01:46,017 - INFO - Initializing env vars...
+2024-07-24 12:01:46,017 - INFO - Loading environment variables from: .env
+2024-07-24 12:01:46,674 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/1.1 200 OK"
+2024-07-24 12:02:27,602 - INFO - Initializing env vars...
+2024-07-24 12:02:27,602 - INFO - Loading environment variables from: .env
+2024-07-24 12:02:28,300 - INFO - Reading document from string ...
+2024-07-24 12:02:28,300 - INFO - Reading document ...
+2024-07-24 12:02:29,392 - INFO - Reading document from string ...
+2024-07-24 12:02:29,392 - INFO - Reading document ...
+2024-07-24 12:04:07,419 - INFO - Initializing env vars...
+2024-07-24 12:04:07,419 - INFO - Loading environment variables from: .env
+2024-07-24 12:05:46,445 - INFO - Initializing env vars...
+2024-07-24 12:05:46,445 - INFO - Loading environment variables from: .env
+2024-07-24 12:05:47,260 - INFO - HTTP Request: POST https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points/search "HTTP/1.1 200 OK"
+2024-07-24 12:06:43,120 - INFO - Initializing env vars...
+2024-07-24 12:06:43,120 - INFO - Loading environment variables from: .env
+2024-07-24 12:06:43,767 - INFO - Reading document from string ...
+2024-07-24 12:06:43,768 - INFO - Reading document ...
+2024-07-24 12:06:44,699 - INFO - Reading document from string ...
+2024-07-24 12:06:44,699 - INFO - Reading document ...
+2024-07-24 12:06:51,865 - INFO - Initializing env vars...
+2024-07-24 12:06:51,865 - INFO - Loading environment variables from: .env
+2024-07-24 12:06:52,660 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/1.1 200 OK"
+2024-07-24 12:10:34,634 - INFO - Initializing env vars...
+2024-07-24 12:10:34,634 - INFO - Loading environment variables from: .env
+2024-07-24 12:10:35,352 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/1.1 200 OK"
+2024-07-24 12:12:57,651 - INFO - Initializing env vars...
+2024-07-24 12:12:57,651 - INFO - Loading environment variables from: .env
+2024-07-24 12:12:58,782 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/1.1 200 OK"
+2024-07-24 12:17:00,949 - INFO - Initializing env vars...
+2024-07-24 12:17:00,949 - INFO - Loading environment variables from: .env
+2024-07-24 12:17:01,681 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/1.1 200 OK"
+2024-07-24 12:17:01,974 - INFO - [AlpacaNewsStream]: Received message: [{"T":"success","msg":"connected"}]
+2024-07-24 12:17:01,974 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "success",
+    "msg": "connected"
+  }
+]
+2024-07-24 12:17:01,975 - INFO - [AlpacaNewsStream]: Connected to Alpaca News Stream.
+2024-07-24 12:17:02,146 - INFO - [AlpacaNewsStream]: Received message: [{"T":"success","msg":"authenticated"}]
+2024-07-24 12:17:02,147 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "success",
+    "msg": "authenticated"
+  }
+]
+2024-07-24 12:17:02,147 - INFO - [AlpacaNewsStream]: Authenticated with Alpaca News Stream.
+2024-07-24 12:17:02,248 - INFO - [AlpacaNewsStream]: Received message: [{"T":"subscription","news":["*"]}]
+2024-07-24 12:17:02,249 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "subscription",
+    "news": [
+      "*"
+    ]
+  }
+]
+2024-07-24 12:17:02,249 - INFO - [AlpacaNewsStream]: Subscribed to Alpaca News Stream.
+2024-07-24 12:17:04,809 - INFO - [AlpacaNewsStream]: Received message: [{"T":"n","id":39926798,"headline":"Geron shares are trading lower after the company announced the departure of CCO Anil Kapur.","summary":"","author":"Benzinga Newsdesk","created_at":"2024-07-24T10:17:03Z","updated_at":"2024-07-24T10:17:04Z","url":"https://www.benzinga.com/wiim/24/07/39926798/geron-shares-are-trading-lower-after-the-company-announced-the-departure-of-cco-anil-kapur","content":"","symbols":["GERN"],"source":"benzinga"}]
+2024-07-24 12:17:04,810 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "n",
+    "id": 39926798,
+    "headline": "Geron shares are trading lower after the company announced the departure of CCO Anil Kapur.",
+    "summary": "",
+    "author": "Benzinga Newsdesk",
+    "created_at": "2024-07-24T10:17:03Z",
+    "updated_at": "2024-07-24T10:17:04Z",
+    "url": "https://www.benzinga.com/wiim/24/07/39926798/geron-shares-are-trading-lower-after-the-company-announced-the-departure-of-cco-anil-kapur",
+    "content": "",
+    "symbols": [
+      "GERN"
+    ],
+    "source": "benzinga"
+  }
+]
+2024-07-24 12:17:04,810 - INFO - Received message from Alpaca API: [{'T': 'n', 'id': 39926798, 'headline': 'Geron shares are trading lower after the company announced the departure of CCO Anil Kapur.', 'summary': '', 'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:17:03Z', 'updated_at': '2024-07-24T10:17:04Z', 'url': 'https://www.benzinga.com/wiim/24/07/39926798/geron-shares-are-trading-lower-after-the-company-announced-the-departure-of-cco-anil-kapur', 'content': '', 'symbols': ['GERN'], 'source': 'benzinga'}]
+2024-07-24 12:17:05,022 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points?wait=true "HTTP/1.1 200 OK"
+2024-07-24 12:18:16,387 - INFO - [AlpacaNewsStream]: Received message: [{"T":"n","id":39926807,"headline":"HC Wainwright \u0026amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target","summary":"HC Wainwright \u0026amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.","author":"Benzinga Newsdesk","created_at":"2024-07-24T10:18:15Z","updated_at":"2024-07-24T10:18:15Z","url":"https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target","content":"HC Wainwright \u0026 Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:\u003ca class=\"ticker\" href=\"https://www.benzinga.com/stock/EYEN#NASDAQ\"\u003eEYEN\u003c/a\u003e) with a Buy and maintains $12 price target.","symbols":["EYEN"],"source":"benzinga"}]
+2024-07-24 12:18:16,388 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "n",
+    "id": 39926807,
+    "headline": "HC Wainwright &amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target",
+    "summary": "HC Wainwright &amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.",
+    "author": "Benzinga Newsdesk",
+    "created_at": "2024-07-24T10:18:15Z",
+    "updated_at": "2024-07-24T10:18:15Z",
+    "url": "https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target",
+    "content": "HC Wainwright & Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:<a class=\"ticker\" href=\"https://www.benzinga.com/stock/EYEN#NASDAQ\">EYEN</a>) with a Buy and maintains $12 price target.",
+    "symbols": [
+      "EYEN"
+    ],
+    "source": "benzinga"
+  }
+]
+2024-07-24 12:18:16,388 - INFO - Received message from Alpaca API: [{'T': 'n', 'id': 39926807, 'headline': 'HC Wainwright &amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target', 'summary': 'HC Wainwright &amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:18:15Z', 'updated_at': '2024-07-24T10:18:15Z', 'url': 'https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target', 'content': 'HC Wainwright & Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:<a class="ticker" href="https://www.benzinga.com/stock/EYEN#NASDAQ">EYEN</a>) with a Buy and maintains $12 price target.', 'symbols': ['EYEN'], 'source': 'benzinga'}]
+2024-07-24 12:18:16,389 - INFO - Reading document from string ...
+2024-07-24 12:18:16,390 - INFO - Reading document ...
+2024-07-24 12:18:17,049 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points?wait=true "HTTP/1.1 200 OK"
+2024-07-24 12:19:18,648 - INFO - [AlpacaNewsStream]: Received message: [{"T":"n","id":39926812,"headline":"Otis Worldwide Revises FY2024 Adj EPS Guidance from $3.83-3.90 To $3.85-$3.90 vs $3.87 Est; Lowers FY2024 Sales Guidance from $14.50B-$14.80B To $14.30B-$14.50B vs $14.62B Est","summary":"2024 Outlook1\n\nOtis is revising its full year outlook:\n\n \n\n\n\tNet sales of $14.3 billion to $14.5 billion\n\tOrganic sales up 1% to 3%\n\t\n\t\tOrganic New Equipment sales down mid-single digits\n\t\tOrganic Service sales up","author":"Benzinga Newsdesk","created_at":"2024-07-24T10:19:17Z","updated_at":"2024-07-24T10:19:17Z","url":"https://www.benzinga.com/news/24/07/39926812/otis-worldwide-revises-fy2024-adj-eps-guidance-from-3-83-3-90-to-3-85-3-90-vs-3-87-est-lowers-fy2024","content":"\u003cp\u003e\u003cstrong\u003e2024\u003c/strong\u003e\u003cstrong\u003e Outlook1\u003c/strong\u003e\u003cbr /\u003e\n\u003cbr /\u003e\nOtis is revising its full year outlook:\u003c/p\u003e\n\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\n\u003cul\u003e\n\t\u003cli\u003eNet sales of $14.3 billion to $14.5 billion\u003c/li\u003e\n\t\u003cli\u003eOrganic sales up 1% to 3%\n\t\u003cul\u003e\n\t\t\u003cli\u003eOrganic New Equipment sales down mid-single digits\u003c/li\u003e\n\t\t\u003cli\u003eOrganic Service sales up 6% to 7%\u003c/li\u003e\n\t\u003c/ul\u003e\n\t\u003c/li\u003e\n\t\u003cli\u003eAdjusted operating profit of $2.40 billion to $2.45 billion, up $160 million to $190 million at constant currency; up $135 million to $175 million at actual currency\u003c/li\u003e\n\t\u003cli\u003eAdjusted EPS of $3.85 to $3.90, up 9% to 10%; adjusted effective tax rate of approximately 25.25%\u003c/li\u003e\n\t\u003cli\u003eAdjusted free cash flow of approximately $1.5 billion to $1.6 billion\u003c/li\u003e\n\u003c/ul\u003e","symbols":["OTIS"],"source":"benzinga"}]
+2024-07-24 12:19:18,648 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "n",
+    "id": 39926812,
+    "headline": "Otis Worldwide Revises FY2024 Adj EPS Guidance from $3.83-3.90 To $3.85-$3.90 vs $3.87 Est; Lowers FY2024 Sales Guidance from $14.50B-$14.80B To $14.30B-$14.50B vs $14.62B Est",
+    "summary": "2024 Outlook1\n\nOtis is revising its full year outlook:\n\n\u00a0\n\n\n\tNet sales of $14.3 billion to $14.5 billion\n\tOrganic sales up 1% to 3%\n\t\n\t\tOrganic New Equipment sales down mid-single digits\n\t\tOrganic Service sales up",
+    "author": "Benzinga Newsdesk",
+    "created_at": "2024-07-24T10:19:17Z",
+    "updated_at": "2024-07-24T10:19:17Z",
+    "url": "https://www.benzinga.com/news/24/07/39926812/otis-worldwide-revises-fy2024-adj-eps-guidance-from-3-83-3-90-to-3-85-3-90-vs-3-87-est-lowers-fy2024",
+    "content": "<p><strong>2024</strong><strong> Outlook1</strong><br />\n<br />\nOtis is revising its full year outlook:</p>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li>Net sales of $14.3 billion to $14.5 billion</li>\n\t<li>Organic sales up 1% to 3%\n\t<ul>\n\t\t<li>Organic New Equipment sales down mid-single digits</li>\n\t\t<li>Organic Service sales up 6% to 7%</li>\n\t</ul>\n\t</li>\n\t<li>Adjusted operating profit of $2.40 billion to $2.45 billion, up $160 million to $190 million at constant currency; up $135 million to $175 million at actual currency</li>\n\t<li>Adjusted EPS of $3.85 to $3.90, up 9% to 10%; adjusted effective tax rate of approximately 25.25%</li>\n\t<li>Adjusted free cash flow of approximately $1.5 billion to $1.6 billion</li>\n</ul>",
+    "symbols": [
+      "OTIS"
+    ],
+    "source": "benzinga"
+  }
+]
+2024-07-24 12:19:18,649 - INFO - Received message from Alpaca API: [{'T': 'n', 'id': 39926812, 'headline': 'Otis Worldwide Revises FY2024 Adj EPS Guidance from $3.83-3.90 To $3.85-$3.90 vs $3.87 Est; Lowers FY2024 Sales Guidance from $14.50B-$14.80B To $14.30B-$14.50B vs $14.62B Est', 'summary': '2024 Outlook1\n\nOtis is revising its full year outlook:\n\n\xa0\n\n\n\tNet sales of $14.3 billion to $14.5 billion\n\tOrganic sales up 1% to 3%\n\t\n\t\tOrganic New Equipment sales down mid-single digits\n\t\tOrganic Service sales up', 'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:19:17Z', 'updated_at': '2024-07-24T10:19:17Z', 'url': 'https://www.benzinga.com/news/24/07/39926812/otis-worldwide-revises-fy2024-adj-eps-guidance-from-3-83-3-90-to-3-85-3-90-vs-3-87-est-lowers-fy2024', 'content': '<p><strong>2024</strong><strong> Outlook1</strong><br />\n<br />\nOtis is revising its full year outlook:</p>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li>Net sales of $14.3 billion to $14.5 billion</li>\n\t<li>Organic sales up 1% to 3%\n\t<ul>\n\t\t<li>Organic New Equipment sales down mid-single digits</li>\n\t\t<li>Organic Service sales up 6% to 7%</li>\n\t</ul>\n\t</li>\n\t<li>Adjusted operating profit of $2.40 billion to $2.45 billion, up $160 million to $190 million at constant currency; up $135 million to $175 million at actual currency</li>\n\t<li>Adjusted EPS of $3.85 to $3.90, up 9% to 10%; adjusted effective tax rate of approximately 25.25%</li>\n\t<li>Adjusted free cash flow of approximately $1.5 billion to $1.6 billion</li>\n</ul>', 'symbols': ['OTIS'], 'source': 'benzinga'}]
+2024-07-24 12:19:18,649 - INFO - Reading document from string ...
+2024-07-24 12:19:18,650 - INFO - Reading document ...
+2024-07-24 12:19:18,917 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points?wait=true "HTTP/1.1 200 OK"
+2024-07-24 12:19:19,364 - INFO - [AlpacaNewsStream]: Received message: [{"T":"n","id":39926813,"headline":"Vertiv Holdings shares are trading higher after the company reported better-than-expected Q2 EPS and sales. Additionally, the company raised its FY24 guidance.","summary":"","author":"Benzinga Newsdesk","created_at":"2024-07-24T10:19:18Z","updated_at":"2024-07-24T10:19:18Z","url":"https://www.benzinga.com/wiim/24/07/39926813/vertiv-holdings-shares-are-trading-higher-after-the-company-reported-better-than-expected-q2-eps-and","content":"","symbols":["VRT"],"source":"benzinga"}]
+2024-07-24 12:19:19,365 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "n",
+    "id": 39926813,
+    "headline": "Vertiv Holdings shares are trading higher after the company reported better-than-expected Q2 EPS and sales. Additionally, the company raised its FY24 guidance.",
+    "summary": "",
+    "author": "Benzinga Newsdesk",
+    "created_at": "2024-07-24T10:19:18Z",
+    "updated_at": "2024-07-24T10:19:18Z",
+    "url": "https://www.benzinga.com/wiim/24/07/39926813/vertiv-holdings-shares-are-trading-higher-after-the-company-reported-better-than-expected-q2-eps-and",
+    "content": "",
+    "symbols": [
+      "VRT"
+    ],
+    "source": "benzinga"
+  }
+]
+2024-07-24 12:19:19,365 - INFO - Received message from Alpaca API: [{'T': 'n', 'id': 39926813, 'headline': 'Vertiv Holdings shares are trading higher after the company reported better-than-expected Q2 EPS and sales. Additionally, the company raised its FY24 guidance.', 'summary': '', 'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:19:18Z', 'updated_at': '2024-07-24T10:19:18Z', 'url': 'https://www.benzinga.com/wiim/24/07/39926813/vertiv-holdings-shares-are-trading-higher-after-the-company-reported-better-than-expected-q2-eps-and', 'content': '', 'symbols': ['VRT'], 'source': 'benzinga'}]
+2024-07-24 12:19:19,498 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points?wait=true "HTTP/1.1 200 OK"
+2024-07-24 12:19:46,704 - INFO - [AlpacaNewsStream]: Received message: [{"T":"n","id":39926821,"headline":"Rivian shares are trading lower after a report indicating the company will face a trial in a Tesla trade secrets theft case.","summary":"","author":"Benzinga Newsdesk","created_at":"2024-07-24T10:19:45Z","updated_at":"2024-07-24T10:19:46Z","url":"https://www.benzinga.com/wiim/24/07/39926821/rivian-shares-are-trading-lower-after-a-report-indicating-the-company-will-face-a-trial-in-a-tesla-t","content":"","symbols":["RIVN"],"source":"benzinga"}]
+2024-07-24 12:19:46,704 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "n",
+    "id": 39926821,
+    "headline": "Rivian shares are trading lower after a report indicating the company will face a trial in a Tesla trade secrets theft case.",
+    "summary": "",
+    "author": "Benzinga Newsdesk",
+    "created_at": "2024-07-24T10:19:45Z",
+    "updated_at": "2024-07-24T10:19:46Z",
+    "url": "https://www.benzinga.com/wiim/24/07/39926821/rivian-shares-are-trading-lower-after-a-report-indicating-the-company-will-face-a-trial-in-a-tesla-t",
+    "content": "",
+    "symbols": [
+      "RIVN"
+    ],
+    "source": "benzinga"
+  }
+]
+2024-07-24 12:19:46,705 - INFO - Received message from Alpaca API: [{'T': 'n', 'id': 39926821, 'headline': 'Rivian shares are trading lower after a report indicating the company will face a trial in a Tesla trade secrets theft case.', 'summary': '', 'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:19:45Z', 'updated_at': '2024-07-24T10:19:46Z', 'url': 'https://www.benzinga.com/wiim/24/07/39926821/rivian-shares-are-trading-lower-after-a-report-indicating-the-company-will-face-a-trial-in-a-tesla-t', 'content': '', 'symbols': ['RIVN'], 'source': 'benzinga'}]
+2024-07-24 12:19:46,871 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points?wait=true "HTTP/1.1 200 OK"
+2024-07-24 12:20:04,419 - INFO - [AlpacaNewsStream]: Received message: [{"T":"n","id":39926829,"headline":"Taylor Morrison Home Now Expects To Deliver 12,600 - 12,800 Homes This Year (Prior View 12,500) At Home Closings Gross Margin Around 24% (Prior View 23.5% - 24.0%)","summary":"","author":"Benzinga Newsdesk","created_at":"2024-07-24T10:20:03Z","updated_at":"2024-07-24T10:20:03Z","url":"https://www.benzinga.com/news/24/07/39926829/taylor-morrison-home-now-expects-to-deliver-12-600-12-800-homes-this-year-prior-view-12-500-at-home","content":"","symbols":["TMHC"],"source":"benzinga"}]
+2024-07-24 12:20:04,420 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "n",
+    "id": 39926829,
+    "headline": "Taylor Morrison Home Now Expects To Deliver 12,600 - 12,800 Homes This Year (Prior View 12,500) At Home Closings Gross Margin Around 24% (Prior View 23.5% - 24.0%)",
+    "summary": "",
+    "author": "Benzinga Newsdesk",
+    "created_at": "2024-07-24T10:20:03Z",
+    "updated_at": "2024-07-24T10:20:03Z",
+    "url": "https://www.benzinga.com/news/24/07/39926829/taylor-morrison-home-now-expects-to-deliver-12-600-12-800-homes-this-year-prior-view-12-500-at-home",
+    "content": "",
+    "symbols": [
+      "TMHC"
+    ],
+    "source": "benzinga"
+  }
+]
+2024-07-24 12:20:04,420 - INFO - Received message from Alpaca API: [{'T': 'n', 'id': 39926829, 'headline': 'Taylor Morrison Home Now Expects To Deliver 12,600 - 12,800 Homes This Year (Prior View 12,500) At Home Closings Gross Margin Around 24% (Prior View 23.5% - 24.0%)', 'summary': '', 'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:20:03Z', 'updated_at': '2024-07-24T10:20:03Z', 'url': 'https://www.benzinga.com/news/24/07/39926829/taylor-morrison-home-now-expects-to-deliver-12-600-12-800-homes-this-year-prior-view-12-500-at-home', 'content': '', 'symbols': ['TMHC'], 'source': 'benzinga'}]
+2024-07-24 12:20:04,572 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points?wait=true "HTTP/1.1 200 OK"
+2024-07-24 12:20:07,184 - INFO - [AlpacaNewsStream]: Received message: [{"T":"n","id":39926830,"headline":"Goldman Sachs Maintains Neutral on Tesla, Lowers Price Target to $230","summary":"Goldman Sachs  analyst Mark Delaney   maintains Tesla (NASDAQ:TSLA) with a Neutral and lowers the price target from $248 to $230.","author":"Benzinga Newsdesk","created_at":"2024-07-24T10:20:05Z","updated_at":"2024-07-24T10:20:06Z","url":"https://www.benzinga.com/news/24/07/39926830/goldman-sachs-maintains-neutral-on-tesla-lowers-price-target-to-230","content":"Goldman Sachs  analyst Mark Delaney   maintains Tesla (NASDAQ:\u003ca class=\"ticker\" href=\"https://www.benzinga.com/stock/TSLA#NASDAQ\"\u003eTSLA\u003c/a\u003e) with a Neutral and lowers the price target from $248 to $230.","symbols":["TSLA"],"source":"benzinga"}]
+2024-07-24 12:20:07,185 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "n",
+    "id": 39926830,
+    "headline": "Goldman Sachs Maintains Neutral on Tesla, Lowers Price Target to $230",
+    "summary": "Goldman Sachs  analyst Mark Delaney   maintains Tesla (NASDAQ:TSLA) with a Neutral and lowers the price target from $248 to $230.",
+    "author": "Benzinga Newsdesk",
+    "created_at": "2024-07-24T10:20:05Z",
+    "updated_at": "2024-07-24T10:20:06Z",
+    "url": "https://www.benzinga.com/news/24/07/39926830/goldman-sachs-maintains-neutral-on-tesla-lowers-price-target-to-230",
+    "content": "Goldman Sachs  analyst Mark Delaney   maintains Tesla (NASDAQ:<a class=\"ticker\" href=\"https://www.benzinga.com/stock/TSLA#NASDAQ\">TSLA</a>) with a Neutral and lowers the price target from $248 to $230.",
+    "symbols": [
+      "TSLA"
+    ],
+    "source": "benzinga"
+  }
+]
+2024-07-24 12:20:07,186 - INFO - Received message from Alpaca API: [{'T': 'n', 'id': 39926830, 'headline': 'Goldman Sachs Maintains Neutral on Tesla, Lowers Price Target to $230', 'summary': 'Goldman Sachs  analyst Mark Delaney   maintains Tesla (NASDAQ:TSLA) with a Neutral and lowers the price target from $248 to $230.', 'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:20:05Z', 'updated_at': '2024-07-24T10:20:06Z', 'url': 'https://www.benzinga.com/news/24/07/39926830/goldman-sachs-maintains-neutral-on-tesla-lowers-price-target-to-230', 'content': 'Goldman Sachs  analyst Mark Delaney   maintains Tesla (NASDAQ:<a class="ticker" href="https://www.benzinga.com/stock/TSLA#NASDAQ">TSLA</a>) with a Neutral and lowers the price target from $248 to $230.', 'symbols': ['TSLA'], 'source': 'benzinga'}]
+2024-07-24 12:20:07,187 - INFO - Reading document from string ...
+2024-07-24 12:20:07,187 - INFO - Reading document ...
+2024-07-24 12:20:07,371 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points?wait=true "HTTP/1.1 200 OK"
+2024-07-24 12:20:16,071 - INFO - [AlpacaNewsStream]: Received message: [{"T":"n","id":39926831,"headline":"DA Davidson Maintains Buy on Estee Lauder Cos, Maintains $191 Price Target","summary":"DA Davidson  analyst Linda Bolton Weiser   maintains Estee Lauder Cos (NYSE:EL) with a Buy and maintains $191 price target.","author":"Benzinga Newsdesk","created_at":"2024-07-24T10:20:14Z","updated_at":"2024-07-24T10:20:15Z","url":"https://www.benzinga.com/news/24/07/39926831/da-davidson-maintains-buy-on-estee-lauder-cos-maintains-191-price-target","content":"DA Davidson  analyst Linda Bolton Weiser   maintains Estee Lauder Cos (NYSE:\u003ca class=\"ticker\" href=\"https://www.benzinga.com/stock/EL#NYSE\"\u003eEL\u003c/a\u003e) with a Buy and maintains $191 price target.","symbols":["EL"],"source":"benzinga"}]
+2024-07-24 12:20:16,072 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "n",
+    "id": 39926831,
+    "headline": "DA Davidson Maintains Buy on Estee Lauder Cos, Maintains $191 Price Target",
+    "summary": "DA Davidson  analyst Linda Bolton Weiser   maintains Estee Lauder Cos (NYSE:EL) with a Buy and maintains $191 price target.",
+    "author": "Benzinga Newsdesk",
+    "created_at": "2024-07-24T10:20:14Z",
+    "updated_at": "2024-07-24T10:20:15Z",
+    "url": "https://www.benzinga.com/news/24/07/39926831/da-davidson-maintains-buy-on-estee-lauder-cos-maintains-191-price-target",
+    "content": "DA Davidson  analyst Linda Bolton Weiser   maintains Estee Lauder Cos (NYSE:<a class=\"ticker\" href=\"https://www.benzinga.com/stock/EL#NYSE\">EL</a>) with a Buy and maintains $191 price target.",
+    "symbols": [
+      "EL"
+    ],
+    "source": "benzinga"
+  }
+]
+2024-07-24 12:20:16,072 - INFO - Received message from Alpaca API: [{'T': 'n', 'id': 39926831, 'headline': 'DA Davidson Maintains Buy on Estee Lauder Cos, Maintains $191 Price Target', 'summary': 'DA Davidson  analyst Linda Bolton Weiser   maintains Estee Lauder Cos (NYSE:EL) with a Buy and maintains $191 price target.', 'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:20:14Z', 'updated_at': '2024-07-24T10:20:15Z', 'url': 'https://www.benzinga.com/news/24/07/39926831/da-davidson-maintains-buy-on-estee-lauder-cos-maintains-191-price-target', 'content': 'DA Davidson  analyst Linda Bolton Weiser   maintains Estee Lauder Cos (NYSE:<a class="ticker" href="https://www.benzinga.com/stock/EL#NYSE">EL</a>) with a Buy and maintains $191 price target.', 'symbols': ['EL'], 'source': 'benzinga'}]
+2024-07-24 12:20:16,072 - INFO - Reading document from string ...
+2024-07-24 12:20:16,072 - INFO - Reading document ...
+2024-07-24 12:20:16,277 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points?wait=true "HTTP/1.1 200 OK"
+2024-07-24 12:20:27,292 - INFO - [AlpacaNewsStream]: Received message: [{"T":"n","id":39926832,"headline":"HC Wainwright \u0026amp; Co. Reiterates Buy on Anixa Biosciences, Maintains $7 Price Target","summary":"HC Wainwright \u0026amp; Co.  analyst Yi Chen   reiterates Anixa Biosciences (NASDAQ:ANIX) with a Buy and maintains $7 price target.","author":"Benzinga Newsdesk","created_at":"2024-07-24T10:20:26Z","updated_at":"2024-07-24T10:20:26Z","url":"https://www.benzinga.com/news/24/07/39926832/hc-wainwright-co-reiterates-buy-on-anixa-biosciences-maintains-7-price-target","content":"HC Wainwright \u0026 Co.  analyst Yi Chen   reiterates Anixa Biosciences (NASDAQ:\u003ca class=\"ticker\" href=\"https://www.benzinga.com/stock/ANIX#NASDAQ\"\u003eANIX\u003c/a\u003e) with a Buy and maintains $7 price target.","symbols":["ANIX"],"source":"benzinga"}]
+2024-07-24 12:20:27,292 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "n",
+    "id": 39926832,
+    "headline": "HC Wainwright &amp; Co. Reiterates Buy on Anixa Biosciences, Maintains $7 Price Target",
+    "summary": "HC Wainwright &amp; Co.  analyst Yi Chen   reiterates Anixa Biosciences (NASDAQ:ANIX) with a Buy and maintains $7 price target.",
+    "author": "Benzinga Newsdesk",
+    "created_at": "2024-07-24T10:20:26Z",
+    "updated_at": "2024-07-24T10:20:26Z",
+    "url": "https://www.benzinga.com/news/24/07/39926832/hc-wainwright-co-reiterates-buy-on-anixa-biosciences-maintains-7-price-target",
+    "content": "HC Wainwright & Co.  analyst Yi Chen   reiterates Anixa Biosciences (NASDAQ:<a class=\"ticker\" href=\"https://www.benzinga.com/stock/ANIX#NASDAQ\">ANIX</a>) with a Buy and maintains $7 price target.",
+    "symbols": [
+      "ANIX"
+    ],
+    "source": "benzinga"
+  }
+]
+2024-07-24 12:20:27,293 - INFO - Received message from Alpaca API: [{'T': 'n', 'id': 39926832, 'headline': 'HC Wainwright &amp; Co. Reiterates Buy on Anixa Biosciences, Maintains $7 Price Target', 'summary': 'HC Wainwright &amp; Co.  analyst Yi Chen   reiterates Anixa Biosciences (NASDAQ:ANIX) with a Buy and maintains $7 price target.', 'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:20:26Z', 'updated_at': '2024-07-24T10:20:26Z', 'url': 'https://www.benzinga.com/news/24/07/39926832/hc-wainwright-co-reiterates-buy-on-anixa-biosciences-maintains-7-price-target', 'content': 'HC Wainwright & Co.  analyst Yi Chen   reiterates Anixa Biosciences (NASDAQ:<a class="ticker" href="https://www.benzinga.com/stock/ANIX#NASDAQ">ANIX</a>) with a Buy and maintains $7 price target.', 'symbols': ['ANIX'], 'source': 'benzinga'}]
+2024-07-24 12:20:27,295 - INFO - Reading document from string ...
+2024-07-24 12:20:27,296 - INFO - Reading document ...
+2024-07-24 12:20:27,509 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points?wait=true "HTTP/1.1 200 OK"
+2024-07-24 12:20:36,388 - INFO - [AlpacaNewsStream]: Received message: [{"T":"n","id":39926833,"headline":"Madison Square Garden shares are trading higher after Goldman Sachs upgraded the stock from Neutral to Buy and raised its price target from $41 to $45.","summary":"","author":"Benzinga Newsdesk","created_at":"2024-07-24T10:20:35Z","updated_at":"2024-07-24T10:20:35Z","url":"https://www.benzinga.com/wiim/24/07/39926833/madison-square-garden-shares-are-trading-higher-after-goldman-sachs-upgraded-the-stock-from-neutral","content":"","symbols":["MSGE"],"source":"benzinga"}]
+2024-07-24 12:20:36,389 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "n",
+    "id": 39926833,
+    "headline": "Madison Square Garden shares are trading higher after Goldman Sachs upgraded the stock from Neutral to Buy and raised its price target from $41 to $45.",
+    "summary": "",
+    "author": "Benzinga Newsdesk",
+    "created_at": "2024-07-24T10:20:35Z",
+    "updated_at": "2024-07-24T10:20:35Z",
+    "url": "https://www.benzinga.com/wiim/24/07/39926833/madison-square-garden-shares-are-trading-higher-after-goldman-sachs-upgraded-the-stock-from-neutral",
+    "content": "",
+    "symbols": [
+      "MSGE"
+    ],
+    "source": "benzinga"
+  }
+]
+2024-07-24 12:20:36,389 - INFO - Received message from Alpaca API: [{'T': 'n', 'id': 39926833, 'headline': 'Madison Square Garden shares are trading higher after Goldman Sachs upgraded the stock from Neutral to Buy and raised its price target from $41 to $45.', 'summary': '', 'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:20:35Z', 'updated_at': '2024-07-24T10:20:35Z', 'url': 'https://www.benzinga.com/wiim/24/07/39926833/madison-square-garden-shares-are-trading-higher-after-goldman-sachs-upgraded-the-stock-from-neutral', 'content': '', 'symbols': ['MSGE'], 'source': 'benzinga'}]
+2024-07-24 12:20:36,521 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points?wait=true "HTTP/1.1 200 OK"
+2024-07-24 12:20:59,919 - INFO - [AlpacaNewsStream]: Received message: [{"T":"n","id":39926841,"headline":"Taylor Morrison Expects Q3 Home Closings To Be Approximately 3,200, Home Closings Gross Margin To Be Around 24%","summary":"","author":"Benzinga Newsdesk","created_at":"2024-07-24T10:20:58Z","updated_at":"2024-07-24T10:20:59Z","url":"https://www.benzinga.com/news/24/07/39926841/taylor-morrison-expects-q3-home-closings-to-be-approximately-3-200-home-closings-gross-margin-to-be","content":"","symbols":["TMHC"],"source":"benzinga"}]
+2024-07-24 12:20:59,920 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "n",
+    "id": 39926841,
+    "headline": "Taylor Morrison Expects Q3 Home Closings To Be Approximately 3,200, Home Closings Gross Margin To Be Around 24%",
+    "summary": "",
+    "author": "Benzinga Newsdesk",
+    "created_at": "2024-07-24T10:20:58Z",
+    "updated_at": "2024-07-24T10:20:59Z",
+    "url": "https://www.benzinga.com/news/24/07/39926841/taylor-morrison-expects-q3-home-closings-to-be-approximately-3-200-home-closings-gross-margin-to-be",
+    "content": "",
+    "symbols": [
+      "TMHC"
+    ],
+    "source": "benzinga"
+  }
+]
+2024-07-24 12:20:59,921 - INFO - Received message from Alpaca API: [{'T': 'n', 'id': 39926841, 'headline': 'Taylor Morrison Expects Q3 Home Closings To Be Approximately 3,200, Home Closings Gross Margin To Be Around 24%', 'summary': '', 'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:20:58Z', 'updated_at': '2024-07-24T10:20:59Z', 'url': 'https://www.benzinga.com/news/24/07/39926841/taylor-morrison-expects-q3-home-closings-to-be-approximately-3-200-home-closings-gross-margin-to-be', 'content': '', 'symbols': ['TMHC'], 'source': 'benzinga'}]
+2024-07-24 12:21:00,083 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points?wait=true "HTTP/1.1 200 OK"
+2024-07-24 12:25:28,224 - INFO - Initializing env vars...
+2024-07-24 12:25:28,229 - INFO - Loading environment variables from: .env
+2024-07-24 12:25:29,227 - INFO - HTTP Request: POST https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points/search "HTTP/1.1 200 OK"
+2024-07-24 12:25:29,229 - INFO - id='71146da8-debd-34b7-538c-13c6d7970e96' version=9 score=0.77756226 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:20:35+00:00', 'headline': 'Madison Square Garden shares are trading higher after Goldman Sachs upgraded the stock from Neutral to Buy and raised its price target from $41 to $45.', 'summary': '', 'symbols': ['MSGE'], 'text': 'Madison Square Garden shares are trading higher after Goldman Sachs upgraded the stock from Neutral to Buy and raised its price target from $41 to $45.', 'url': 'https://www.benzinga.com/wiim/24/07/39926833/madison-square-garden-shares-are-trading-higher-after-goldman-sachs-upgraded-the-stock-from-neutral'} vector=None shard_key=None order_value=None
+2024-07-24 12:25:29,229 - INFO - id='27220550-82bd-04a2-ce78-af8c90f0c752' version=5 score=0.648191 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:20:03+00:00', 'headline': 'Taylor Morrison Home Now Expects To Deliver 12,600 - 12,800 Homes This Year (Prior View 12,500) At Home Closings Gross Margin Around 24% (Prior View 23.5% - 24.0%)', 'summary': '', 'symbols': ['TMHC'], 'text': 'Taylor Morrison Home Now Expects To Deliver 12,600 - 12,800 Homes This Year (Prior View 12,500) At Home Closings Gross Margin Around 24% (Prior View 23.5% - 24.0%)', 'url': 'https://www.benzinga.com/news/24/07/39926829/taylor-morrison-home-now-expects-to-deliver-12-600-12-800-homes-this-year-prior-view-12-500-at-home'} vector=None shard_key=None order_value=None
+2024-07-24 12:25:29,229 - INFO - id='bc47c531-3ed5-bb3a-cb73-b9356c717f2f' version=7 score=0.62323034 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:20:14+00:00', 'headline': 'DA Davidson Maintains Buy on Estee Lauder Cos, Maintains $191 Price Target', 'summary': 'DA Davidson  analyst Linda Bolton Weiser   maintains Estee Lauder Cos (NYSE:EL) with a Buy and maintains $191 price target.', 'symbols': ['EL'], 'text': 'DA Davidson  analyst Linda Bolton Weiser   maintains Estee Lauder Cos (NYSE:EL) with a Buy and maintains $191 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926831/da-davidson-maintains-buy-on-estee-lauder-cos-maintains-191-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:25:29,229 - INFO - id='a0fb4e40-ed70-72f5-9472-d769f869faae' version=1 score=0.6221478 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:18:15+00:00', 'headline': 'HC Wainwright &amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target', 'summary': 'HC Wainwright &amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'symbols': ['EYEN'], 'text': 'HC Wainwright & Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:25:29,230 - INFO - id='14d7be5c-4886-a342-1aaf-af3663e82f61' version=1 score=0.6214837 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:18:15+00:00', 'headline': 'HC Wainwright &amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target', 'summary': 'HC Wainwright &amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'symbols': ['EYEN'], 'text': 'HC Wainwright & Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:25:57,651 - INFO - Initializing env vars...
+2024-07-24 12:25:57,651 - INFO - Loading environment variables from: .env
+2024-07-24 12:25:58,592 - INFO - HTTP Request: POST https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points/search "HTTP/1.1 200 OK"
+2024-07-24 12:25:58,594 - INFO - id='14d7be5c-4886-a342-1aaf-af3663e82f61' version=1 score=0.664118 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:18:15+00:00', 'headline': 'HC Wainwright &amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target', 'summary': 'HC Wainwright &amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'symbols': ['EYEN'], 'text': 'HC Wainwright & Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:25:58,594 - INFO - id='a0fb4e40-ed70-72f5-9472-d769f869faae' version=1 score=0.66323745 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:18:15+00:00', 'headline': 'HC Wainwright &amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target', 'summary': 'HC Wainwright &amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'symbols': ['EYEN'], 'text': 'HC Wainwright & Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:25:58,594 - INFO - id='bc47c531-3ed5-bb3a-cb73-b9356c717f2f' version=7 score=0.6485827 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:20:14+00:00', 'headline': 'DA Davidson Maintains Buy on Estee Lauder Cos, Maintains $191 Price Target', 'summary': 'DA Davidson  analyst Linda Bolton Weiser   maintains Estee Lauder Cos (NYSE:EL) with a Buy and maintains $191 price target.', 'symbols': ['EL'], 'text': 'DA Davidson  analyst Linda Bolton Weiser   maintains Estee Lauder Cos (NYSE:EL) with a Buy and maintains $191 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926831/da-davidson-maintains-buy-on-estee-lauder-cos-maintains-191-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:25:58,594 - INFO - id='d8db2e4e-186f-68d8-dac1-1cc7117a5307' version=2 score=0.6444038 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:19:17+00:00', 'headline': 'Otis Worldwide Revises FY2024 Adj EPS Guidance from $3.83-3.90 To $3.85-$3.90 vs $3.87 Est; Lowers FY2024 Sales Guidance from $14.50B-$14.80B To $14.30B-$14.50B vs $14.62B Est', 'summary': '2024 Outlook1\n\nOtis is revising its full year outlook:\n\n\n\n\n\tNet sales of $14.3 billion to $14.5 billion\n\tOrganic sales up 1% to 3%\n\t\n\t\tOrganic New Equipment sales down mid-single digits\n\t\tOrganic Service sales up', 'symbols': ['OTIS'], 'text': '2024 Outlook1 Otis is revising its full year outlook: Net sales of $14.3 billion to $14.5 billion Organic sales up 1% to 3%\n\t\n\t\tOrganic New Equipment sales down mid-single digits\n\t\tOrganic Service sales up 6% to 7% Adjusted operating profit of $2.40 billion to $2.45 billion, up $160 million to $190 million at constant currency; up $135 million to $175 million at actual currency Adjusted EPS of $3.85 to $3.90, up 9% to 10%; adjusted effective tax rate of approximately 25.25% Adjusted free cash flow of approximately $1.5 billion to $1.6 billion', 'url': 'https://www.benzinga.com/news/24/07/39926812/otis-worldwide-revises-fy2024-adj-eps-guidance-from-3-83-3-90-to-3-85-3-90-vs-3-87-est-lowers-fy2024'} vector=None shard_key=None order_value=None
+2024-07-24 12:25:58,594 - INFO - id='58534f30-8796-ba2f-ceac-27c97af9d164' version=7 score=0.64385766 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:20:14+00:00', 'headline': 'DA Davidson Maintains Buy on Estee Lauder Cos, Maintains $191 Price Target', 'summary': 'DA Davidson  analyst Linda Bolton Weiser   maintains Estee Lauder Cos (NYSE:EL) with a Buy and maintains $191 price target.', 'symbols': ['EL'], 'text': 'DA Davidson  analyst Linda Bolton Weiser   maintains Estee Lauder Cos (NYSE:EL) with a Buy and maintains $191 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926831/da-davidson-maintains-buy-on-estee-lauder-cos-maintains-191-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:26:22,137 - INFO - Initializing env vars...
+2024-07-24 12:26:22,137 - INFO - Loading environment variables from: .env
+2024-07-24 12:26:22,918 - INFO - HTTP Request: POST https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points/search "HTTP/1.1 200 OK"
+2024-07-24 12:26:22,919 - INFO - id='14d7be5c-4886-a342-1aaf-af3663e82f61' version=1 score=0.6650741 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:18:15+00:00', 'headline': 'HC Wainwright &amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target', 'summary': 'HC Wainwright &amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'symbols': ['EYEN'], 'text': 'HC Wainwright & Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:26:22,924 - INFO - id='a0fb4e40-ed70-72f5-9472-d769f869faae' version=1 score=0.6627739 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:18:15+00:00', 'headline': 'HC Wainwright &amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target', 'summary': 'HC Wainwright &amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'symbols': ['EYEN'], 'text': 'HC Wainwright & Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:26:22,925 - INFO - id='9c4c2b8d-8af1-c648-9914-9243fd5271c4' version=1 score=0.6522571 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:18:15+00:00', 'headline': 'HC Wainwright &amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target', 'summary': 'HC Wainwright &amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'symbols': ['EYEN'], 'text': 'HC Wainwright & Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:26:22,925 - INFO - id='bc47c531-3ed5-bb3a-cb73-b9356c717f2f' version=7 score=0.63834155 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:20:14+00:00', 'headline': 'DA Davidson Maintains Buy on Estee Lauder Cos, Maintains $191 Price Target', 'summary': 'DA Davidson  analyst Linda Bolton Weiser   maintains Estee Lauder Cos (NYSE:EL) with a Buy and maintains $191 price target.', 'symbols': ['EL'], 'text': 'DA Davidson  analyst Linda Bolton Weiser   maintains Estee Lauder Cos (NYSE:EL) with a Buy and maintains $191 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926831/da-davidson-maintains-buy-on-estee-lauder-cos-maintains-191-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:26:22,926 - INFO - id='546b323a-44f5-7a21-8dd2-ddfa34a2e129' version=0 score=0.6254579 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:17:03+00:00', 'headline': 'Geron shares are trading lower after the company announced the departure of CCO Anil Kapur.', 'summary': '', 'symbols': ['GERN'], 'text': 'Geron shares are trading lower after the company announced the departure of CCO Anil Kapur.', 'url': 'https://www.benzinga.com/wiim/24/07/39926798/geron-shares-are-trading-lower-after-the-company-announced-the-departure-of-cco-anil-kapur'} vector=None shard_key=None order_value=None
+2024-07-24 12:26:40,062 - INFO - Initializing env vars...
+2024-07-24 12:26:40,062 - INFO - Loading environment variables from: .env
+2024-07-24 12:26:40,871 - INFO - HTTP Request: POST https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points/search "HTTP/1.1 200 OK"
+2024-07-24 12:26:40,876 - INFO - id='14d7be5c-4886-a342-1aaf-af3663e82f61' version=1 score=0.7082323 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:18:15+00:00', 'headline': 'HC Wainwright &amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target', 'summary': 'HC Wainwright &amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'symbols': ['EYEN'], 'text': 'HC Wainwright & Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:26:40,876 - INFO - id='a0fb4e40-ed70-72f5-9472-d769f869faae' version=1 score=0.70781934 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:18:15+00:00', 'headline': 'HC Wainwright &amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target', 'summary': 'HC Wainwright &amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'symbols': ['EYEN'], 'text': 'HC Wainwright & Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:26:40,877 - INFO - id='bc47c531-3ed5-bb3a-cb73-b9356c717f2f' version=7 score=0.6759576 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:20:14+00:00', 'headline': 'DA Davidson Maintains Buy on Estee Lauder Cos, Maintains $191 Price Target', 'summary': 'DA Davidson  analyst Linda Bolton Weiser   maintains Estee Lauder Cos (NYSE:EL) with a Buy and maintains $191 price target.', 'symbols': ['EL'], 'text': 'DA Davidson  analyst Linda Bolton Weiser   maintains Estee Lauder Cos (NYSE:EL) with a Buy and maintains $191 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926831/da-davidson-maintains-buy-on-estee-lauder-cos-maintains-191-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:26:40,878 - INFO - id='9c4c2b8d-8af1-c648-9914-9243fd5271c4' version=1 score=0.66468316 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:18:15+00:00', 'headline': 'HC Wainwright &amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target', 'summary': 'HC Wainwright &amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'symbols': ['EYEN'], 'text': 'HC Wainwright & Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:26:40,879 - INFO - id='c8e609f6-c8ce-32e3-3301-e73f08ac0d1a' version=6 score=0.6364126 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:20:05+00:00', 'headline': 'Goldman Sachs Maintains Neutral on Tesla, Lowers Price Target to $230', 'summary': 'Goldman Sachs  analyst Mark Delaney   maintains Tesla (NASDAQ:TSLA) with a Neutral and lowers the price target from $248 to $230.', 'symbols': ['TSLA'], 'text': 'Goldman Sachs  analyst Mark Delaney   maintains Tesla (NASDAQ:TSLA) with a Neutral and lowers the price target from $248 to $230.', 'url': 'https://www.benzinga.com/news/24/07/39926830/goldman-sachs-maintains-neutral-on-tesla-lowers-price-target-to-230'} vector=None shard_key=None order_value=None
+2024-07-24 12:27:13,815 - INFO - Initializing env vars...
+2024-07-24 12:27:13,815 - INFO - Loading environment variables from: .env
+2024-07-24 12:27:14,554 - INFO - HTTP Request: GET https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/1.1 200 OK"
+2024-07-24 12:27:15,002 - INFO - [AlpacaNewsStream]: Received message: [{"T":"success","msg":"connected"}]
+2024-07-24 12:27:15,003 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "success",
+    "msg": "connected"
+  }
+]
+2024-07-24 12:27:15,003 - INFO - [AlpacaNewsStream]: Connected to Alpaca News Stream.
+2024-07-24 12:27:15,120 - INFO - [AlpacaNewsStream]: Received message: [{"T":"success","msg":"authenticated"}]
+2024-07-24 12:27:15,120 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "success",
+    "msg": "authenticated"
+  }
+]
+2024-07-24 12:27:15,126 - INFO - [AlpacaNewsStream]: Authenticated with Alpaca News Stream.
+2024-07-24 12:27:15,222 - INFO - [AlpacaNewsStream]: Received message: [{"T":"subscription","news":["*"]}]
+2024-07-24 12:27:15,223 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "subscription",
+    "news": [
+      "*"
+    ]
+  }
+]
+2024-07-24 12:27:15,223 - INFO - [AlpacaNewsStream]: Subscribed to Alpaca News Stream.
+2024-07-24 12:28:16,563 - INFO - [AlpacaNewsStream]: Received message: [{"T":"n","id":39926892,"headline":"GE Vernova Raises FY24 Revenue Guidance To Towards Higher End of $34B-$35B Range vs $34.63B Est.; Raises FY24 Adjusted EBITDA Margin Guidance From Higher End of Mid-Single Digits To 5%-7%; Raises FY24 Free Cash Flow Guidance From $0.7B-$1.1B To $1.3B-$1.7B","summary":"","author":"Benzinga Newsdesk","created_at":"2024-07-24T10:28:15Z","updated_at":"2024-07-24T10:28:16Z","url":"https://www.benzinga.com/news/24/07/39926892/ge-vernova-raises-fy24-revenue-guidance-to-towards-higher-end-of-34b-35b-range-vs-34-63b-est-raises","content":"","symbols":["GEV"],"source":"benzinga"}]
+2024-07-24 12:28:16,564 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "n",
+    "id": 39926892,
+    "headline": "GE Vernova Raises FY24 Revenue Guidance To Towards Higher End of $34B-$35B Range vs $34.63B Est.; Raises FY24 Adjusted EBITDA Margin Guidance From Higher End of Mid-Single Digits To 5%-7%; Raises FY24 Free Cash Flow Guidance From $0.7B-$1.1B To $1.3B-$1.7B",
+    "summary": "",
+    "author": "Benzinga Newsdesk",
+    "created_at": "2024-07-24T10:28:15Z",
+    "updated_at": "2024-07-24T10:28:16Z",
+    "url": "https://www.benzinga.com/news/24/07/39926892/ge-vernova-raises-fy24-revenue-guidance-to-towards-higher-end-of-34b-35b-range-vs-34-63b-est-raises",
+    "content": "",
+    "symbols": [
+      "GEV"
+    ],
+    "source": "benzinga"
+  }
+]
+2024-07-24 12:28:16,564 - INFO - Received message from Alpaca API: [{'T': 'n', 'id': 39926892, 'headline': 'GE Vernova Raises FY24 Revenue Guidance To Towards Higher End of $34B-$35B Range vs $34.63B Est.; Raises FY24 Adjusted EBITDA Margin Guidance From Higher End of Mid-Single Digits To 5%-7%; Raises FY24 Free Cash Flow Guidance From $0.7B-$1.1B To $1.3B-$1.7B', 'summary': '', 'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:28:15Z', 'updated_at': '2024-07-24T10:28:16Z', 'url': 'https://www.benzinga.com/news/24/07/39926892/ge-vernova-raises-fy24-revenue-guidance-to-towards-higher-end-of-34b-35b-range-vs-34-63b-est-raises', 'content': '', 'symbols': ['GEV'], 'source': 'benzinga'}]
+2024-07-24 12:28:16,842 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points?wait=true "HTTP/1.1 200 OK"
+2024-07-24 12:28:36,634 - INFO - [AlpacaNewsStream]: Received message: [{"T":"n","id":39926893,"headline":"Needham Reiterates Buy on Sprout Social, Maintains $55 Price Target","summary":"Needham  analyst Scott Berg   reiterates Sprout Social (NASDAQ:SPT) with a Buy and maintains $55 price target.","author":"Benzinga Newsdesk","created_at":"2024-07-24T10:28:35Z","updated_at":"2024-07-24T10:28:36Z","url":"https://www.benzinga.com/news/24/07/39926893/needham-reiterates-buy-on-sprout-social-maintains-55-price-target","content":"Needham  analyst Scott Berg   reiterates Sprout Social (NASDAQ:\u003ca class=\"ticker\" href=\"https://www.benzinga.com/stock/SPT#NASDAQ\"\u003eSPT\u003c/a\u003e) with a Buy and maintains $55 price target.","symbols":["SPT"],"source":"benzinga"}]
+2024-07-24 12:28:36,635 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "n",
+    "id": 39926893,
+    "headline": "Needham Reiterates Buy on Sprout Social, Maintains $55 Price Target",
+    "summary": "Needham  analyst Scott Berg   reiterates Sprout Social (NASDAQ:SPT) with a Buy and maintains $55 price target.",
+    "author": "Benzinga Newsdesk",
+    "created_at": "2024-07-24T10:28:35Z",
+    "updated_at": "2024-07-24T10:28:36Z",
+    "url": "https://www.benzinga.com/news/24/07/39926893/needham-reiterates-buy-on-sprout-social-maintains-55-price-target",
+    "content": "Needham  analyst Scott Berg   reiterates Sprout Social (NASDAQ:<a class=\"ticker\" href=\"https://www.benzinga.com/stock/SPT#NASDAQ\">SPT</a>) with a Buy and maintains $55 price target.",
+    "symbols": [
+      "SPT"
+    ],
+    "source": "benzinga"
+  }
+]
+2024-07-24 12:28:36,635 - INFO - Received message from Alpaca API: [{'T': 'n', 'id': 39926893, 'headline': 'Needham Reiterates Buy on Sprout Social, Maintains $55 Price Target', 'summary': 'Needham  analyst Scott Berg   reiterates Sprout Social (NASDAQ:SPT) with a Buy and maintains $55 price target.', 'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:28:35Z', 'updated_at': '2024-07-24T10:28:36Z', 'url': 'https://www.benzinga.com/news/24/07/39926893/needham-reiterates-buy-on-sprout-social-maintains-55-price-target', 'content': 'Needham  analyst Scott Berg   reiterates Sprout Social (NASDAQ:<a class="ticker" href="https://www.benzinga.com/stock/SPT#NASDAQ">SPT</a>) with a Buy and maintains $55 price target.', 'symbols': ['SPT'], 'source': 'benzinga'}]
+2024-07-24 12:28:36,636 - INFO - Reading document from string ...
+2024-07-24 12:28:36,637 - INFO - Reading document ...
+2024-07-24 12:28:37,332 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points?wait=true "HTTP/1.1 200 OK"
+2024-07-24 12:28:51,788 - INFO - [AlpacaNewsStream]: Received message: [{"T":"n","id":39926894,"headline":"GE Vernova shares are trading higher after the company raised its FY24 guidance.","summary":"","author":"Benzinga Newsdesk","created_at":"2024-07-24T10:28:50Z","updated_at":"2024-07-24T10:28:51Z","url":"https://www.benzinga.com/wiim/24/07/39926894/ge-vernova-shares-are-trading-higher-after-the-company-raised-its-fy24-guidance","content":"","symbols":["GEV"],"source":"benzinga"}]
+2024-07-24 12:28:51,789 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "n",
+    "id": 39926894,
+    "headline": "GE Vernova shares are trading higher after the company raised its FY24 guidance.",
+    "summary": "",
+    "author": "Benzinga Newsdesk",
+    "created_at": "2024-07-24T10:28:50Z",
+    "updated_at": "2024-07-24T10:28:51Z",
+    "url": "https://www.benzinga.com/wiim/24/07/39926894/ge-vernova-shares-are-trading-higher-after-the-company-raised-its-fy24-guidance",
+    "content": "",
+    "symbols": [
+      "GEV"
+    ],
+    "source": "benzinga"
+  }
+]
+2024-07-24 12:28:51,789 - INFO - Received message from Alpaca API: [{'T': 'n', 'id': 39926894, 'headline': 'GE Vernova shares are trading higher after the company raised its FY24 guidance.', 'summary': '', 'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:28:50Z', 'updated_at': '2024-07-24T10:28:51Z', 'url': 'https://www.benzinga.com/wiim/24/07/39926894/ge-vernova-shares-are-trading-higher-after-the-company-raised-its-fy24-guidance', 'content': '', 'symbols': ['GEV'], 'source': 'benzinga'}]
+2024-07-24 12:28:51,852 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points?wait=true "HTTP/1.1 200 OK"
+2024-07-24 12:30:39,415 - INFO - [AlpacaNewsStream]: Received message: [{"T":"n","id":39926930,"headline":"GE Vernov Q2 2024 GAAP EPS $4.56, Organic Revenues $8.087B, Up 2% YoY","summary":"","author":"Benzinga Newsdesk","created_at":"2024-07-24T10:30:38Z","updated_at":"2024-07-24T10:30:38Z","url":"https://www.benzinga.com/news/earnings/24/07/39926930/ge-vernov-q2-2024-gaap-eps-4-56-organic-revenues-8-087b-up-2-yoy","content":"","symbols":["GEV"],"source":"benzinga"}]
+2024-07-24 12:30:39,416 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "n",
+    "id": 39926930,
+    "headline": "GE Vernov Q2 2024 GAAP EPS $4.56, Organic Revenues $8.087B, Up 2% YoY",
+    "summary": "",
+    "author": "Benzinga Newsdesk",
+    "created_at": "2024-07-24T10:30:38Z",
+    "updated_at": "2024-07-24T10:30:38Z",
+    "url": "https://www.benzinga.com/news/earnings/24/07/39926930/ge-vernov-q2-2024-gaap-eps-4-56-organic-revenues-8-087b-up-2-yoy",
+    "content": "",
+    "symbols": [
+      "GEV"
+    ],
+    "source": "benzinga"
+  }
+]
+2024-07-24 12:30:39,416 - INFO - Received message from Alpaca API: [{'T': 'n', 'id': 39926930, 'headline': 'GE Vernov Q2 2024 GAAP EPS $4.56, Organic Revenues $8.087B, Up 2% YoY', 'summary': '', 'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:30:38Z', 'updated_at': '2024-07-24T10:30:38Z', 'url': 'https://www.benzinga.com/news/earnings/24/07/39926930/ge-vernov-q2-2024-gaap-eps-4-56-organic-revenues-8-087b-up-2-yoy', 'content': '', 'symbols': ['GEV'], 'source': 'benzinga'}]
+2024-07-24 12:30:39,520 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points?wait=true "HTTP/1.1 200 OK"
+2024-07-24 12:30:49,963 - INFO - [AlpacaNewsStream]: Received message: [{"T":"n","id":39926931,"headline":"Raymond James Initiates Coverage On Meritage Homes with Outperform Rating, Announces Price Target of $220","summary":"Raymond James  analyst Buck Horne   initiates coverage on Meritage Homes (NYSE:MTH) with a Outperform rating and announces Price Target of $220.","author":"Benzinga Newsdesk","created_at":"2024-07-24T10:30:48Z","updated_at":"2024-07-24T10:30:49Z","url":"https://www.benzinga.com/news/24/07/39926931/raymond-james-initiates-coverage-on-meritage-homes-with-outperform-rating-announces-price-target-of","content":"Raymond James  analyst Buck Horne   initiates coverage on Meritage Homes (NYSE:\u003ca class=\"ticker\" href=\"https://www.benzinga.com/stock/MTH#NYSE\"\u003eMTH\u003c/a\u003e) with a Outperform rating and announces Price Target of $220.","symbols":["MTH"],"source":"benzinga"}]
+2024-07-24 12:30:49,964 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "n",
+    "id": 39926931,
+    "headline": "Raymond James Initiates Coverage On Meritage Homes with Outperform Rating, Announces Price Target of $220",
+    "summary": "Raymond James  analyst Buck Horne   initiates coverage on Meritage Homes (NYSE:MTH) with a Outperform rating and announces Price Target of $220.",
+    "author": "Benzinga Newsdesk",
+    "created_at": "2024-07-24T10:30:48Z",
+    "updated_at": "2024-07-24T10:30:49Z",
+    "url": "https://www.benzinga.com/news/24/07/39926931/raymond-james-initiates-coverage-on-meritage-homes-with-outperform-rating-announces-price-target-of",
+    "content": "Raymond James  analyst Buck Horne   initiates coverage on Meritage Homes (NYSE:<a class=\"ticker\" href=\"https://www.benzinga.com/stock/MTH#NYSE\">MTH</a>) with a Outperform rating and announces Price Target of $220.",
+    "symbols": [
+      "MTH"
+    ],
+    "source": "benzinga"
+  }
+]
+2024-07-24 12:30:49,964 - INFO - Received message from Alpaca API: [{'T': 'n', 'id': 39926931, 'headline': 'Raymond James Initiates Coverage On Meritage Homes with Outperform Rating, Announces Price Target of $220', 'summary': 'Raymond James  analyst Buck Horne   initiates coverage on Meritage Homes (NYSE:MTH) with a Outperform rating and announces Price Target of $220.', 'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:30:48Z', 'updated_at': '2024-07-24T10:30:49Z', 'url': 'https://www.benzinga.com/news/24/07/39926931/raymond-james-initiates-coverage-on-meritage-homes-with-outperform-rating-announces-price-target-of', 'content': 'Raymond James  analyst Buck Horne   initiates coverage on Meritage Homes (NYSE:<a class="ticker" href="https://www.benzinga.com/stock/MTH#NYSE">MTH</a>) with a Outperform rating and announces Price Target of $220.', 'symbols': ['MTH'], 'source': 'benzinga'}]
+2024-07-24 12:30:49,966 - INFO - Reading document from string ...
+2024-07-24 12:30:49,966 - INFO - Reading document ...
+2024-07-24 12:30:50,152 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points?wait=true "HTTP/1.1 200 OK"
+2024-07-24 12:31:05,119 - INFO - [AlpacaNewsStream]: Received message: [{"T":"n","id":39926935,"headline":"Telsey Advisory Group Maintains Market Perform on Estee Lauder Cos, Maintains $115 Price Target","summary":"Telsey Advisory Group  analyst Dana Telsey   maintains Estee Lauder Cos (NYSE:EL) with a Market Perform and maintains $115 price target.","author":"Benzinga Newsdesk","created_at":"2024-07-24T10:31:02Z","updated_at":"2024-07-24T10:31:02Z","url":"https://www.benzinga.com/news/24/07/39926935/telsey-advisory-group-maintains-market-perform-on-estee-lauder-cos-maintains-115-price-target","content":"Telsey Advisory Group  analyst Dana Telsey   maintains Estee Lauder Cos (NYSE:\u003ca class=\"ticker\" href=\"https://www.benzinga.com/stock/EL#NYSE\"\u003eEL\u003c/a\u003e) with a Market Perform and maintains $115 price target.","symbols":["EL"],"source":"benzinga"}]
+2024-07-24 12:31:05,120 - INFO - [AlpacaNewsStream]: Parsed message: [
+  {
+    "T": "n",
+    "id": 39926935,
+    "headline": "Telsey Advisory Group Maintains Market Perform on Estee Lauder Cos, Maintains $115 Price Target",
+    "summary": "Telsey Advisory Group  analyst Dana Telsey   maintains Estee Lauder Cos (NYSE:EL) with a Market Perform and maintains $115 price target.",
+    "author": "Benzinga Newsdesk",
+    "created_at": "2024-07-24T10:31:02Z",
+    "updated_at": "2024-07-24T10:31:02Z",
+    "url": "https://www.benzinga.com/news/24/07/39926935/telsey-advisory-group-maintains-market-perform-on-estee-lauder-cos-maintains-115-price-target",
+    "content": "Telsey Advisory Group  analyst Dana Telsey   maintains Estee Lauder Cos (NYSE:<a class=\"ticker\" href=\"https://www.benzinga.com/stock/EL#NYSE\">EL</a>) with a Market Perform and maintains $115 price target.",
+    "symbols": [
+      "EL"
+    ],
+    "source": "benzinga"
+  }
+]
+2024-07-24 12:31:05,120 - INFO - Received message from Alpaca API: [{'T': 'n', 'id': 39926935, 'headline': 'Telsey Advisory Group Maintains Market Perform on Estee Lauder Cos, Maintains $115 Price Target', 'summary': 'Telsey Advisory Group  analyst Dana Telsey   maintains Estee Lauder Cos (NYSE:EL) with a Market Perform and maintains $115 price target.', 'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:31:02Z', 'updated_at': '2024-07-24T10:31:02Z', 'url': 'https://www.benzinga.com/news/24/07/39926935/telsey-advisory-group-maintains-market-perform-on-estee-lauder-cos-maintains-115-price-target', 'content': 'Telsey Advisory Group  analyst Dana Telsey   maintains Estee Lauder Cos (NYSE:<a class="ticker" href="https://www.benzinga.com/stock/EL#NYSE">EL</a>) with a Market Perform and maintains $115 price target.', 'symbols': ['EL'], 'source': 'benzinga'}]
+2024-07-24 12:31:05,121 - INFO - Reading document from string ...
+2024-07-24 12:31:05,121 - INFO - Reading document ...
+2024-07-24 12:31:05,307 - INFO - HTTP Request: PUT https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points?wait=true "HTTP/1.1 200 OK"
+2024-07-24 12:31:34,874 - INFO - Initializing env vars...
+2024-07-24 12:31:34,874 - INFO - Loading environment variables from: .env
+2024-07-24 12:31:35,777 - INFO - HTTP Request: POST https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points/search "HTTP/1.1 200 OK"
+2024-07-24 12:31:35,778 - INFO - id='58367a38-fe8a-6b8f-c8b6-02da0aa3d62d' version=16 score=0.74086785 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:31:02+00:00', 'headline': 'Telsey Advisory Group Maintains Market Perform on Estee Lauder Cos, Maintains $115 Price Target', 'summary': 'Telsey Advisory Group  analyst Dana Telsey   maintains Estee Lauder Cos (NYSE:EL) with a Market Perform and maintains $115 price target.', 'symbols': ['EL'], 'text': 'Telsey Advisory Group  analyst Dana Telsey   maintains Estee Lauder Cos (NYSE:EL) with a Market Perform and maintains $115 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926935/telsey-advisory-group-maintains-market-perform-on-estee-lauder-cos-maintains-115-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:31:35,779 - INFO - id='be34deb8-3795-d91e-6dc7-f4922907f1a9' version=16 score=0.7201342 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:31:02+00:00', 'headline': 'Telsey Advisory Group Maintains Market Perform on Estee Lauder Cos, Maintains $115 Price Target', 'summary': 'Telsey Advisory Group  analyst Dana Telsey   maintains Estee Lauder Cos (NYSE:EL) with a Market Perform and maintains $115 price target.', 'symbols': ['EL'], 'text': 'Telsey Advisory Group  analyst Dana Telsey   maintains Estee Lauder Cos (NYSE:EL) with a Market Perform and maintains $115 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926935/telsey-advisory-group-maintains-market-perform-on-estee-lauder-cos-maintains-115-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:31:35,779 - INFO - id='a0fb4e40-ed70-72f5-9472-d769f869faae' version=1 score=0.6668102 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:18:15+00:00', 'headline': 'HC Wainwright &amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target', 'summary': 'HC Wainwright &amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'symbols': ['EYEN'], 'text': 'HC Wainwright & Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:31:35,779 - INFO - id='14d7be5c-4886-a342-1aaf-af3663e82f61' version=1 score=0.6664496 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:18:15+00:00', 'headline': 'HC Wainwright &amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target', 'summary': 'HC Wainwright &amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'symbols': ['EYEN'], 'text': 'HC Wainwright & Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:31:35,779 - INFO - id='9c4c2b8d-8af1-c648-9914-9243fd5271c4' version=1 score=0.64174664 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:18:15+00:00', 'headline': 'HC Wainwright &amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target', 'summary': 'HC Wainwright &amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'symbols': ['EYEN'], 'text': 'HC Wainwright & Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:31:59,554 - INFO - Initializing env vars...
+2024-07-24 12:31:59,554 - INFO - Loading environment variables from: .env
+2024-07-24 12:32:00,495 - INFO - HTTP Request: POST https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points/search "HTTP/1.1 200 OK"
+2024-07-24 12:32:00,496 - INFO - id='f3c93a99-ae5b-e8f5-8bd2-c23317d14df9' version=13 score=0.82590264 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:28:50+00:00', 'headline': 'GE Vernova shares are trading higher after the company raised its FY24 guidance.', 'summary': '', 'symbols': ['GEV'], 'text': 'GE Vernova shares are trading higher after the company raised its FY24 guidance.', 'url': 'https://www.benzinga.com/wiim/24/07/39926894/ge-vernova-shares-are-trading-higher-after-the-company-raised-its-fy24-guidance'} vector=None shard_key=None order_value=None
+2024-07-24 12:32:00,502 - INFO - id='4240e9a1-bc25-1619-640e-0a20a967282f' version=11 score=0.8074579 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:28:15+00:00', 'headline': 'GE Vernova Raises FY24 Revenue Guidance To Towards Higher End of $34B-$35B Range vs $34.63B Est.; Raises FY24 Adjusted EBITDA Margin Guidance From Higher End of Mid-Single Digits To 5%-7%; Raises FY24 Free Cash Flow Guidance From $0.7B-$1.1B To $1.3B-$1.7B', 'summary': '', 'symbols': ['GEV'], 'text': 'GE Vernova Raises FY24 Revenue Guidance To Towards Higher End of $34B-$35B Range vs $34.63B Est.; Raises FY24 Adjusted EBITDA Margin Guidance From Higher End of Mid-Single Digits To 5%-7%; Raises FY24 Free Cash Flow Guidance From $0.7B-$1.1B To $1.3B-$1.7B', 'url': 'https://www.benzinga.com/news/24/07/39926892/ge-vernova-raises-fy24-revenue-guidance-to-towards-higher-end-of-34b-35b-range-vs-34-63b-est-raises'} vector=None shard_key=None order_value=None
+2024-07-24 12:32:00,502 - INFO - id='8bfdb59c-e1b3-78d1-61bd-597514536875' version=14 score=0.76324105 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:30:38+00:00', 'headline': 'GE Vernov Q2 2024 GAAP EPS $4.56, Organic Revenues $8.087B, Up 2% YoY', 'summary': '', 'symbols': ['GEV'], 'text': 'GE Vernov Q2 2024 GAAP EPS $4.56, Organic Revenues $8.087B, Up 2% YoY', 'url': 'https://www.benzinga.com/news/earnings/24/07/39926930/ge-vernov-q2-2024-gaap-eps-4-56-organic-revenues-8-087b-up-2-yoy'} vector=None shard_key=None order_value=None
+2024-07-24 12:32:00,502 - INFO - id='a1659b03-a5bd-6fcf-5fac-3f5c30932d25' version=3 score=0.7469657 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:19:18+00:00', 'headline': 'Vertiv Holdings shares are trading higher after the company reported better-than-expected Q2 EPS and sales. Additionally, the company raised its FY24 guidance.', 'summary': '', 'symbols': ['VRT'], 'text': 'Vertiv Holdings shares are trading higher after the company reported better-than-expected Q2 EPS and sales. Additionally, the company raised its FY24 guidance.', 'url': 'https://www.benzinga.com/wiim/24/07/39926813/vertiv-holdings-shares-are-trading-higher-after-the-company-reported-better-than-expected-q2-eps-and'} vector=None shard_key=None order_value=None
+2024-07-24 12:32:00,503 - INFO - id='546b323a-44f5-7a21-8dd2-ddfa34a2e129' version=0 score=0.6952561 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:17:03+00:00', 'headline': 'Geron shares are trading lower after the company announced the departure of CCO Anil Kapur.', 'summary': '', 'symbols': ['GERN'], 'text': 'Geron shares are trading lower after the company announced the departure of CCO Anil Kapur.', 'url': 'https://www.benzinga.com/wiim/24/07/39926798/geron-shares-are-trading-lower-after-the-company-announced-the-departure-of-cco-anil-kapur'} vector=None shard_key=None order_value=None
+2024-07-24 12:32:31,038 - INFO - Initializing env vars...
+2024-07-24 12:32:31,038 - INFO - Loading environment variables from: .env
+2024-07-24 12:32:31,916 - INFO - HTTP Request: POST https://baf5c798-1288-4f62-b469-3061e4dcb9a4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news/points/search "HTTP/1.1 200 OK"
+2024-07-24 12:32:31,918 - INFO - id='9b2791fe-28e2-6587-5a72-415657fa3772' version=15 score=0.82633823 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:30:48+00:00', 'headline': 'Raymond James Initiates Coverage On Meritage Homes with Outperform Rating, Announces Price Target of $220', 'summary': 'Raymond James  analyst Buck Horne   initiates coverage on Meritage Homes (NYSE:MTH) with a Outperform rating and announces Price Target of $220.', 'symbols': ['MTH'], 'text': 'Raymond James  analyst Buck Horne   initiates coverage on Meritage Homes (NYSE:MTH) with a Outperform rating and announces Price Target of $220.', 'url': 'https://www.benzinga.com/news/24/07/39926931/raymond-james-initiates-coverage-on-meritage-homes-with-outperform-rating-announces-price-target-of'} vector=None shard_key=None order_value=None
+2024-07-24 12:32:31,919 - INFO - id='a0fb4e40-ed70-72f5-9472-d769f869faae' version=1 score=0.7149826 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:18:15+00:00', 'headline': 'HC Wainwright &amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target', 'summary': 'HC Wainwright &amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'symbols': ['EYEN'], 'text': 'HC Wainwright & Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:32:31,919 - INFO - id='14d7be5c-4886-a342-1aaf-af3663e82f61' version=1 score=0.71376514 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:18:15+00:00', 'headline': 'HC Wainwright &amp; Co. Reiterates Buy on Eyenovia, Maintains $12 Price Target', 'summary': 'HC Wainwright &amp; Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'symbols': ['EYEN'], 'text': 'HC Wainwright & Co.  analyst Matthew Caufield   reiterates Eyenovia (NASDAQ:EYEN) with a Buy and maintains $12 price target.', 'url': 'https://www.benzinga.com/news/24/07/39926807/hc-wainwright-co-reiterates-buy-on-eyenovia-maintains-12-price-target'} vector=None shard_key=None order_value=None
+2024-07-24 12:32:31,919 - INFO - id='a096eadd-3ed6-d77b-9b29-bc054137f5f1' version=15 score=0.7102568 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:30:48+00:00', 'headline': 'Raymond James Initiates Coverage On Meritage Homes with Outperform Rating, Announces Price Target of $220', 'summary': 'Raymond James  analyst Buck Horne   initiates coverage on Meritage Homes (NYSE:MTH) with a Outperform rating and announces Price Target of $220.', 'symbols': ['MTH'], 'text': 'Raymond James  analyst Buck Horne   initiates coverage on Meritage Homes (NYSE:MTH) with a Outperform rating and announces Price Target of $220.', 'url': 'https://www.benzinga.com/news/24/07/39926931/raymond-james-initiates-coverage-on-meritage-homes-with-outperform-rating-announces-price-target-of'} vector=None shard_key=None order_value=None
+2024-07-24 12:32:31,919 - INFO - id='4240e9a1-bc25-1619-640e-0a20a967282f' version=11 score=0.69755673 payload={'author': 'Benzinga Newsdesk', 'created_at': '2024-07-24T10:28:15+00:00', 'headline': 'GE Vernova Raises FY24 Revenue Guidance To Towards Higher End of $34B-$35B Range vs $34.63B Est.; Raises FY24 Adjusted EBITDA Margin Guidance From Higher End of Mid-Single Digits To 5%-7%; Raises FY24 Free Cash Flow Guidance From $0.7B-$1.1B To $1.3B-$1.7B', 'summary': '', 'symbols': ['GEV'], 'text': 'GE Vernova Raises FY24 Revenue Guidance To Towards Higher End of $34B-$35B Range vs $34.63B Est.; Raises FY24 Adjusted EBITDA Margin Guidance From Higher End of Mid-Single Digits To 5%-7%; Raises FY24 Free Cash Flow Guidance From $0.7B-$1.1B To $1.3B-$1.7B', 'url': 'https://www.benzinga.com/news/24/07/39926892/ge-vernova-raises-fy24-revenue-guidance-to-towards-higher-end-of-34b-35b-range-vs-34-63b-est-raises'} vector=None shard_key=None order_value=None

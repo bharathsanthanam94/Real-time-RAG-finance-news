@@ -1,0 +1,21 @@
+2024-07-24 11:43:06,274 - ERROR - Error while checking collection: 'QdrantRemote' object has no attribute 'collections_api'
+2024-07-24 11:45:40,059 - ERROR - Error while checking collection: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj -> result -> vectors_count
+  field required (type=value_error.missing)
+obj -> result -> config -> optimizer_config -> max_optimization_threads
+  none is not an allowed value (type=type_error.none.not_allowed)
+2024-07-24 11:46:14,205 - ERROR - Error while checking collection: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj -> result -> vectors_count
+  field required (type=value_error.missing)
+obj -> result -> config -> optimizer_config -> max_optimization_threads
+  none is not an allowed value (type=type_error.none.not_allowed)
+2024-07-24 11:47:06,539 - ERROR - Error while checking collection: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj -> result -> vectors_count
+  field required (type=value_error.missing)
+obj -> result -> config -> optimizer_config -> max_optimization_threads
+  none is not an allowed value (type=type_error.none.not_allowed)
+2024-07-24 11:50:23,402 - ERROR - Error while checking collection: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj -> result -> vectors_count
+  field required (type=value_error.missing)
+obj -> result -> config -> optimizer_config -> max_optimization_threads
+  none is not an allowed value (type=type_error.none.not_allowed)
