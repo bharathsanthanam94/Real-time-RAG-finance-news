@@ -1,2 +1,6 @@
 /modules/streaming_pipeline/.env
 /modules/streaming_pipeline/README.md
+/modules/streaming_pipeline/view_qdrant.py
+/modules/inference_pipeline/rag_simple_usecase/simple-rag/verify_qdrant.py
+/modules/inference_pipeline/simple-rag/.env
+/modules/streaming_pipeline/deploy/terraform.tfvars
