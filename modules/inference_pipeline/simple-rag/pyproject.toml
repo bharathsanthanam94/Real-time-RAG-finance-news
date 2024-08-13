@@ -26,6 +26,8 @@ certifi = "^2024.7.4"
 faiss-cpu= "^1.8.0"
 sentence-transformers = "^3.0.1"
 tqdm = "^4.66.1"
+uvicorn= "^0.30.3"
+fastapi="^0.109.0"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.7.0"
